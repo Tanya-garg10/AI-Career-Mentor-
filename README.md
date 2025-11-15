@@ -40,6 +40,8 @@ OPENAI_API_KEY=<your_api_key>
 ```
 4. Deploy. The serverless API and frontend will run automatically.
 
+**Live Deployment Link:** [https://ai-career-mentor-sepia.vercel.app/]
+
 ## Demo Steps
 
 1. Start the app locally or online.
