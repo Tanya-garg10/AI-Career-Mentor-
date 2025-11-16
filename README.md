@@ -42,6 +42,9 @@ OPENAI_API_KEY=<your_api_key>
 
 **Live Deployment Link:** [https://ai-career-mentor-sepia.vercel.app/]
 
+**Demo Video Link:**
+[https://drive.google.com/file/d/1QnYHr2hWuJwANS21meawd4zVbBH__QuV/view?usp=drivesdk]
+
 ## Demo Steps
 
 1. Start the app locally or online.
